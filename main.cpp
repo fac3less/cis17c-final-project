@@ -15,7 +15,7 @@
 //
 //Milestones
 //1. Week 1: Working Prototype
-//2. Week 2: 
+//2. Week 2: i am fac3less
 //3. Week 3:
 //4. Week 4: Final Program, hits all targets, and QA tested. 
 
